@@ -7,5 +7,5 @@ seek help from other memebers at Turing, and learn new methods of executing my g
 take what we learned in class and implement it into our work. The project consisted of 3 main languages...HTML, CSS, and
 Javascript. We added all the contents of the page as well as the physical appearence and some functionality. 
 <br>
-##Results
+## Results
 ![Original Comp]("./images_2/Vero's copy.png")
