@@ -1,5 +1,5 @@
 # Dog Party Mod 1 Week 1 Solo Project
-<hr>
+
 ## Description 
 Day one of Mod 1, 1908 cohort was assigned the dog party project at project kick-off. Assignment was to use our skills
 and knowlege to recreate a comp of `A Site About Some Dogs`. With this project, I was able to explore different sources,
