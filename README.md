@@ -8,4 +8,4 @@ take what we learned in class and implement it into our work. The project consis
 Javascript. We added all the contents of the page as well as the physical appearence and some functionality. 
 
 ## Results
-![Original Comp](./images_2/Vero's copy.png)
+![OriginalComp](./images_2/Vero's copy.png)
